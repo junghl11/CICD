@@ -49,4 +49,4 @@ phases:
 
 artifacts:
     files: 
-      - imagedefinitions.json
+      - imagedefinitions.json # container파일명 등 정보 들어있음
